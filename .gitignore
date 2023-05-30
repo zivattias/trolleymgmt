@@ -41,3 +41,7 @@ mongo-volume/
 *.wepb
 *.pyc
 thumbnail*
+
+# venv + VSCode
+.vscode
+venv
